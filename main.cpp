@@ -7,7 +7,7 @@
     Edits made by:
     Malk Mohamed
     Nauryzbek Berdi
-    Samundra Adhikari
+    Samundra A. Adhikari
  */
 #include <iostream>
 using namespace std;
