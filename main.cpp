@@ -5,9 +5,9 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
-    TODO: Malk Mohamed -- to be added by student 1
-    TODO: <Add name of student 2 Here> -- to be added by student 2
-    TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
+    Malk Mohamed
+    Nauryzbek Berdi
+    Samundra Adhikari
  */
 #include <iostream>
 using namespace std;
@@ -25,7 +25,7 @@ int main() {
         cout << "                \|/     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
         cout << "              <(o )___- " << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( ._;_;> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "                `-|--|-' " << endl; // TODO student 2 may change this line and may add lines below
     }
 
     return 0;
